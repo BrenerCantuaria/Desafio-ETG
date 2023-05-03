@@ -1,0 +1,24 @@
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20em;
+}
+.principal form {
+    display: flex;
+    align-items: center;
+}
+.principal input {
+    padding: 1em;
+    border: none;
+}
+
+.principal button {
+    padding:1em;
+    border: none;
+    /* border-radius: 1px; */
+    background-color: #576CBC;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}

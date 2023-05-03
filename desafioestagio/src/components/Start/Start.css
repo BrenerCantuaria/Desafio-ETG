@@ -1,0 +1,39 @@
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40em;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-align: justify;
+    width: 50em;
+}
+.conteudo p {
+    text-transform: uppercase;
+    color: rgb(38, 26, 26);
+    font-weight: 800;
+    
+}
+.conteudo h4 {
+   text-align: center;
+}
+
+
+.conteudo button {
+    padding: 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #576CBC;
+    color: white;
+    cursor: pointer;
+    font-weight: 800;
+
+}

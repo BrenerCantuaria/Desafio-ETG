@@ -1,0 +1,9 @@
+.exibiPokemon{
+    text-align: center;
+    
+}
+
+.exibiPokemon img {
+    width: auto ;
+    height: 10em;
+}
